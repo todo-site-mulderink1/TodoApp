@@ -1,4 +1,4 @@
-const express = require('express'), path = require('path'), app = express(), PORT = 3434;
+const express = require('express'), path = require('path'), app = express(), PORT = 8080;
 
 app.use('/', express.static(path.resolve(__dirname, '../client/assets')));
 
