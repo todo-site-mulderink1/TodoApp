@@ -5,6 +5,11 @@
   font-family: Arial, sans-serif;
 }
 
+#container h1 {
+  text-align: Center;
+  font-size: 38px;
+}
+
 #container {
   position: relative;
   margin: 2em auto;
