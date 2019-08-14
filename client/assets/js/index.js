@@ -1,5 +1,3 @@
-$(document).ready(main);
-
 function main() {
   const save = document.getElementById("save");
   save.addEventListener("click", buildMessage)
